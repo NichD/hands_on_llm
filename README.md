@@ -1,3 +1,10 @@
-## hands_on_llm
+# hands_on_llm
 
-Notebook repository for Google colab notebooks that work through and extend examples from the Hands on LLM book (O'Reilly)
+This is a sandbox repository I created as I explore the O'Reilly book Hands-On LLMs by Alammar & Grootendorst.
+
+The intention is to work through and extend examples provided to increase my familiarity with these recent innovations. Hopefully anyone leverging this resource will find it equally helpful.
+
+## Setup
+
+This repository follows the guidelines of the book in terms of development environment and setup. Specifically, the intention is to connect individual notebooks to a Google Colab instance to leverage cloud compute resources for testing and exploration. 
+>>>>>>> 0478a7eeb833ba7d526128a0263d5e88a5b07256
